@@ -1,1 +1,10 @@
-{"_base":"https://raw.githubusercontent.com/DaanOltmans/strudel-sounds/main/","race_robot_motion":"196904__ionicsmusic__race-robot-motion.wav","robot_roar_3":"320567__doty21__robot-roar-3 (1).wav","small_robot_surprise":"826367__charonfaustinus__small-robot-surprise.wav","vocorded_voice_hello":"845011__tdogproductionz__vocorded-voice-hello.wav","short_track_industraumatic":"845018__looplicator__short-track-4108-industraumatic.mp3"}
+{"_base":"https://raw.githubusercontent.com/DaanOltmans/strudel-sounds/main/",
+  "race_robot_motion":"196904__ionicsmusic__race-robot-motion.wav",
+  "robot_roar_3":"320567__doty21__robot-roar-3 (1).wav",
+  "small_robot_surprise":"826367__charonfaustinus__small-robot-surprise.wav",
+  "vocorded_voice_hello":"845011__tdogproductionz__vocorded-voice-hello.wav",
+  "short_track_industraumatic":"845018__looplicator__short-track-4108-industraumatic.mp3",
+  "open-sound":"391535__unlistenable__electro-open-sound.wav",
+  "lose-sound":"391536__unlistenable__electro-loose-sound.wav",
+  "close-sound":"391537__unlistenable__electro-close-sound.wav",
+  "success-sound":"391540__unlistenable__electro-success-sound.wav"}
