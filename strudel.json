@@ -8,5 +8,15 @@
   "lose_sound":"391536__unlistenable__electro-loose-sound.wav",
   "close_sound":"391537__unlistenable__electro-close-sound.wav",
   "success_sound":"391540__unlistenable__electro-success-sound.wav",
-  "congas_loop":"541749__victek__congas-loop-130bpm.wav"
-}
+  "congas_loop":"541749__victek__congas-loop-130bpm.wav",
+  "afro_cuban_electro_loop":"090_afro-cuban-electro.wav",
+  "electro_bonger_beat":"099_electro-bonger-2-beat.wav",
+  "dorky_electro":"120_dorky-electro.wav",
+  "electro_percusso":"120_electro-percusso-tappums.wav",
+  "glitchy_electro_hatfun":"120_glitchy-electro-hatfun.wav",
+  "silly_electrodrums":"126_silly-electrodrums.wav",
+  "evil_electrobabble":"143_evil-electrobabble2.wav",
+  "evil_electrobabble2":"143_evil-electrobabble3.wav",
+  "electro_samba":"154_electro-samba.wav",
+  "electro_conga":"60_electro_conga_jungle.wav",
+  }
